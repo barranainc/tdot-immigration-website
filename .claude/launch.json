@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "tdot-preview",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "-p", "7891", "."],
+      "port": 7891
+    }
+  ]
+}
